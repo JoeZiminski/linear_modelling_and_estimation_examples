@@ -1,4 +1,4 @@
-# linear_modelling_and_estimation_examples
+# Linear Models and Estimation Examples
 Walkthroughs for linear modelling and estimation e.g. ANOVA, MLE
 
 - ANOVA estimation and tcontrasts. Next: F contrasts, 2-way ANOVA, repeat mesures, mixed-effect models
